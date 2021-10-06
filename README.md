@@ -1,4 +1,4 @@
-# tint2-theme
+# Tint2 Theme
 This is some of my tint2 themes
 
 ## Installation
