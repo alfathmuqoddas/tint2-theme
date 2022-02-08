@@ -6,4 +6,4 @@ This is some of my tint2 themes
 - Choose and apply the theme in tint2 settings
 
 ## Screenshot
-![tint2-themes](tint2-themes.jpg)
+![tint2-themes](screenshot-1.png)
